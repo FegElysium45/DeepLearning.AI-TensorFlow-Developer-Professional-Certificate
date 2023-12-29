@@ -6,6 +6,7 @@ Apache-2.0 license
 Instructed by  Laurence Moroney
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 https://www.coursera.org/professional-certificates/tensorflow-in-practice
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
+
+[Coursera YGHZH3JN2XED.pdf](https://github.com/FegElysium45/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate/files/13792998/Coursera.YGHZH3JN2XED.pdf)
