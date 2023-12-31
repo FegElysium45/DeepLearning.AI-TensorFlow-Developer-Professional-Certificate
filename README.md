@@ -7,7 +7,7 @@
 
 [DeepLearning.AI TensorFlow Developer Professional Certificate on Coursera](https://www.coursera.org/professional-certificates/tensorflow-in-practice)
 
-[<img src="https://github.com/williamcwi/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate/blob/master/misc/certificates/Deeplearning.AI%20TensorFlow%20Developer.jpg" />](https://https//coursera.org/verify/professional-cert/W3P5YZKP29BM)
+[<img src="https://github.com/williamcwi/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate/blob/master/misc/certificates/Deeplearning.AI%20TensorFlow%20Developer.jpg" />](https://www.coursera.org/account/accomplishments/professional-cert/YGHZH3JN2XED)
 
 
 
